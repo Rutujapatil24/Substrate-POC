@@ -1,4 +1,4 @@
-# Substrate Travel Booking System POC
+# Substrate Travels Booking System POC
 Substrate is a next generation framework for blockchain innovation.
 ## Substrate Node Template
 Go to this https://substrate.dev/docs/en/tutorials/create-your-first-substrate-chain/ for creating substrate node template.
