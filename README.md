@@ -1,5 +1,5 @@
 # Substrate Travels Booking System 
-Substrate is a next generation framework for blockchain innovation.
+Substrate is a next generation framework for blockchain innovation.The project travels booking system is developed in the substrate for booking travels for the customer. 
 ## Substrate Node Template
 Go to this https://substrate.dev/docs/en/tutorials/create-your-first-substrate-chain/ for creating substrate node template.
 ## Substrate Pallet Template
